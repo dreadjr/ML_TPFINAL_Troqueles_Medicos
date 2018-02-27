@@ -56,22 +56,22 @@ Se cuenta con un dataset de testing de 80 imagenes con las mismas dimensiones me
 # Notebooks 
 
 	* Detalle de las pruebas realizadas 
-https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/0-ML_TPFINAL_Imagenes_Troqueles_Pruebas.ipynb
+https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/blob/master/0-ML_TPFINAL_Imagenes_Troqueles_Pruebas.ipynb
 
 	* Preprocesamiento de Imagenes 
-https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/1-ML_TPFINAL_Imagenes_Troqueles_PREPROCESO.ipynb
+https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/blob/master/1-ML_TPFINAL_Imagenes_Troqueles_PREPROCESO.ipynb
 
 	* Modelos de Clasificacion CNN  
-https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/2-ML_TPFINAL_Imagenes_Troqueles_MODELO_CNN.ipynb
+https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/blob/master/2-ML_TPFINAL_Imagenes_Troqueles_MODELO_CNN.ipynb
 
 	* Modelos de Clasificacion CLF  
-https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/3-ML_TPFINAL_Imagenes_Troqueles_MODELO_CLF.ipynb 
+https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/blob/master/3-ML_TPFINAL_Imagenes_Troqueles_MODELO_CLF.ipynb 
 
 	* Modelos de Clasificacion KNN 
-https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/4-ML_TPFINAL_Imagenes_Troqueles_MODELO_KNN.ipynb
+https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/blob/master/4-ML_TPFINAL_Imagenes_Troqueles_MODELO_KNN.ipynb
 
 	* Modelos Pre-trained VGG16 
-https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/5-ML_TPFINAL_Imagenes_Troqueles_MODELO_VGG16.ipynb
+https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/blob/master/5-ML_TPFINAL_Imagenes_Troqueles_MODELO_VGG16.ipynb
 
 
       
