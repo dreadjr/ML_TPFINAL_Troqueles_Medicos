@@ -55,10 +55,11 @@ Se cuenta con un dataset de testing de 80 imagenes con las mismas dimensiones me
 
 # Notebooks 
 
-	* Preprocesamiento de Imagenes (Ver 1-ML_TPFINAL_Imagenes_Troqueles_PREPROCESO.ipynb) 
-	* Modelos de Clasificacion CNN  (Ver 2-ML_TPFINAL_Imagenes_Troqueles_MODELO_CNN.ipynb) 
-        * Modelos de Clasificacion CLF  (Ver 3-ML_TPFINAL_Imagenes_Troqueles_MODELO_CLF.ipynb)
-        * Modelos de Clasificacion KNN  (Ver 4-ML_TPFINAL_Imagenes_Troqueles_MODELO_KNN.ipynb)
-        * Modelos Pre-trained VGG16 (Ver 5-ML_TPFINAL_Imagenes_Troqueles_MODELO_VGG16.ipynb)
+	* Detalle de las pruebas realizadas ( https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/0-ML_TPFINAL_Imagenes_Troqueles_Pruebas.ipynb )
+	* Preprocesamiento de Imagenes (  https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/1-ML_TPFINAL_Imagenes_Troqueles_PREPROCESO.ipynb ) 
+	* Modelos de Clasificacion CNN  (  https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/2-ML_TPFINAL_Imagenes_Troqueles_MODELO_CNN.ipynb ) 
+	* Modelos de Clasificacion CLF  (  https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/3-ML_TPFINAL_Imagenes_Troqueles_MODELO_CLF.ipynb )
+	* Modelos de Clasificacion KNN  (  https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/4-ML_TPFINAL_Imagenes_Troqueles_MODELO_KNN.ipynb )
+	* Modelos Pre-trained VGG16 (  https://github.com/gebasilio/ML_TPFINAL_Troqueles_Medicos/5-ML_TPFINAL_Imagenes_Troqueles_MODELO_VGG16.ipynb )
       
 
